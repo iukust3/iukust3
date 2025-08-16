@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan Ullah</h1>
-<h3 align="center">A passionate Full Stack Developer from Islamabad, Pakistan</h3>
+<h3 align="center">A passionate Compose Multiplatform , Kotlin Multiplatform , Full stack Developer from Islamabad, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iukust3&label=Profile%20views&color=0e75b6&style=flat" alt="iukust3" /> </p>
 
