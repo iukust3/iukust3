@@ -1,77 +1,64 @@
-<h1 align="center">Hi 👋, I'm Irfan Ullah Upwork (Ibrahim Khan ) </h1>
-<h3 align="center">A passionate Full Stack Kotlin Multiplatform and Compose Multi platform Developer from Kuwait City, Kuwait</h3>
+&lt;!-- Modern Animated Header --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Irfan%20Ullah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20KMP%20%7C%20Mobile%20%26%20Backend%20Engineer&descAlignY=55&descSize=18"/&gt;
+&lt;/p&gt;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iukust3&label=Profile%20views&color=0e75b6&style=flat" alt="iukust3" /> </p>
+&lt;!-- Dynamic Typing SVG --&gt;
+&lt;p align="center"&gt;
+  &lt;a href="https://git.io/typing-svg"&gt;
+    &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+cross-platform+apps+with+Kotlin+Multiplatform;Crafting+scalable+Ktor+backends;Flutter+%26+iOS+native+development;Node.js+%26+PostgreSQL+expert" alt="Typing SVG" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-- 🔭 I’m currently working on **Faras Captian Kenya (Kotlin Multiplatform) On gitlab as Project Manager**
+&lt;!-- Professional Badges Row --&gt;
+&lt;p align="center"&gt;
+  &lt;a href="https://www.linkedin.com/in/irfanullah2/" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:itsme.irfanullah@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://komarev.com/ghpvc/?username=iukust3"&gt;
+    &lt;img src="https://komarev.com/ghpvc/?username=iukust3&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-- 🌱 I’m currently learning **iOS and Next.js**
+---
 
-- 👯 I’m looking to collaborate on **Enterprise level projects**
+## 🚀 About Me
 
-- 💬 Ask me about **KMP, CMP, Android, React, Flutter**
+```yaml
+name: Irfan Ullah (Ibrahim Khan)
+location: Kuwait City, Kuwait
+role: Full Stack Mobile & Backend Engineer
+current_focus:
+  - Project Manager @ Faras Captain Kenya (KMP)
+  - Enterprise-level cross-platform solutions
+learning: ["Advanced iOS Development", "Next.js", "System Design"]
+collaboration: "Open to enterprise projects & KMP/Flutter partnerships"
+contact: itsme.irfanullah@gmail.com
 
-- 📫 How to reach me **itsme.irfanullah@gmail.com**
-
-- ⚡ Fun fact **I'm an enthusiast, eager to solve challenges!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/irfanullah2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iukust33" height="30" width="40" /></a>
+Mobile & Cross-Platform
+<p>
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Compose"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
-            height="40" />
-    </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
-            height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"
-            alt="jetpack compose" />
-    </a>
+Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Ktor"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iukust3&show_icons=true&locale=en&layout=compact" alt="iukust3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iukust3&show_icons=true&locale=en" alt="iukust3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iukust3&" alt="iukust3" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/iukust3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iukust3" /></a></p><br><br>
+Web & Tools
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
