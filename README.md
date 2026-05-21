@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Irfan%20Ullah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20KMP%20%7C%20Mobile%20%26%20Backend%20Engineer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Irfan%20Ullah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Project%20Manager%20%26%20Senior%20KMP%20Developer%20%7C%2012%2B%20Years%20Exp&descAlignY=55&descSize=16"/>
 </p>
 
 <p align="center">
@@ -27,11 +27,13 @@
 ```yaml
 name: Irfan Ullah (Ibrahim Khan)
 location: Kuwait City, Kuwait
-role: Full Stack Mobile & Backend Engineer
+role: Project Manager & Senior Kotlin Multiplatform Developer
+experience: 12+ Years
 current_focus:
+  - Leading KMP mobile & backend architecture
   - Project Manager @ Faras Captain Kenya (KMP)
   - Enterprise-level cross-platform solutions
-learning: ["Advanced iOS Development", "Next.js", "System Design"]
+learning: ["Advanced iOS Development", "System Design", "Next.js"]
 collaboration: "Open to enterprise projects & KMP/Flutter partnerships"
 contact: itsme.irfanullah@gmail.com
 ```
@@ -102,11 +104,12 @@ contact: itsme.irfanullah@gmail.com
 
 ## 🎯 Current Focus 2026
 
-- 🔭 **Leading** Faras Captain Kenya (KMP) as Project Manager
-- 🌱 **Mastering** iOS Native & Next.js ecosystem
-- 👯 **Collaborating** on enterprise-level cross-platform projects
-- 💬 **Ask me about:** KMP, CMP, Android, iOS, Flutter, Ktor, Node.js, PostgreSQL
-- ⚡ **Fun fact:** I'm an enthusiast, eager to solve complex engineering challenges!
+- 🔭 **Leading** Faras Captain Kenya (KMP) as Project Manager & Senior KMP Developer
+- 🌱 **Spearheading** enterprise KMP mobile & backend architectures (12+ years exp)
+- 🧠 **Mastering** advanced iOS Native, Next.js & modern system design
+- 👯 **Collaborating** on enterprise-level cross-platform projects & KMP partnerships
+- 💬 **Ask me about:** Kotlin Multiplatform, Compose Multiplatform, Android/iOS native, Ktor, Node.js, and PostgreSQL
+- ⚡ **Fun fact:** I am extremely passionate about turning complex architectural challenges into clean, scalable products!
 
 ---
 
