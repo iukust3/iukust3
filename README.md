@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Irfan%20Ullah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Project%20Manager%20%26%20Senior%20KMP%20Developer%20%7C%2012%2B%20Years%20Exp&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Irfan%20Ullah&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Project%20Manager%20%7C%20Senior%20KMP%20Developer%20%7C%2012%20Years%20Experience&amp;descAlignY=55&amp;descSize=16&amp;v=2" alt="Header Banner"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+cross-platform+apps+with+Kotlin+Multiplatform;Crafting+scalable+Ktor+backends;Flutter+%26+iOS+native+development;Node.js+%26+PostgreSQL+expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=667EEA&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+cross-platform+apps+with+Kotlin+Multiplatform;Crafting+scalable+Ktor+backends;Flutter+%26+iOS+native+development;Node.js+%26+PostgreSQL+expert" alt="Typing SVG" />
   </a>
 </p>
 
@@ -74,12 +74,12 @@ contact: itsme.irfanullah@gmail.com
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iukust3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iukust3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iukust3&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=667eea&amp;icon_color=667eea&amp;v=2" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iukust3&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=667eea&amp;v=2" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iukust3&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iukust3&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=667eea&amp;ring=667eea&amp;fire=764ba2&amp;currStreakLabel=667eea&amp;v=2" alt="GitHub Streak"/>
 </p>
 
 ---
