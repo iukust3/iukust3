@@ -31,7 +31,7 @@ role: Project Manager & Senior Kotlin Multiplatform Developer
 experience: 12+ Years
 current_focus:
   - Leading KMP mobile & backend architecture
-  - Project Manager @ Faras Captain Kenya (KMP)
+  - Project Manager @ [Faras Captain Kenya (KMP)](https://play.google.com/store/apps/details?id=com.faras.driver)
   - Enterprise-level cross-platform solutions
 learning: ["Advanced iOS Development", "System Design", "Next.js"]
 collaboration: "Open to enterprise projects & KMP/Flutter partnerships"
@@ -104,7 +104,7 @@ contact: itsme.irfanullah@gmail.com
 
 ## 🎯 Current Focus 2026
 
-- 🔭 **Leading** Faras Captain Kenya (KMP) as Project Manager & Senior KMP Developer
+- 🔭 **Leading** [Faras Captain Kenya (KMP)](https://play.google.com/store/apps/details?id=com.faras.driver) as Project Manager & Senior KMP Developer [![Google Play](https://img.shields.io/badge/Google_Play-Faras_Driver-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.faras.driver)
 - 🌱 **Spearheading** enterprise KMP mobile & backend architectures (12+ years exp)
 - 🧠 **Mastering** advanced iOS Native, Next.js & modern system design
 - 👯 **Collaborating** on enterprise-level cross-platform projects & KMP partnerships
