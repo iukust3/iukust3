@@ -74,8 +74,8 @@ contact: itsme.irfanullah@gmail.com
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-6v5kbwzd2-itsmeirfanullah-9109s-projects.vercel.app/api?username=iukust3&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=667eea&amp;icon_color=667eea&amp;v=4" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-6v5kbwzd2-itsmeirfanullah-9109s-projects.vercel.app/api/top-langs/?username=iukust3&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=667eea&amp;v=4" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-6v5kbwzd2-itsmeirfanullah-9109s-projects.vercel.app/api?username=iukust3&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=667eea&amp;icon_color=667eea&amp;v=5" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-6v5kbwzd2-itsmeirfanullah-9109s-projects.vercel.app/api/top-langs/?username=iukust3&amp;layout=compact&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=667eea&amp;v=5" alt="Top Languages"/>
 </p>
 
 <p align="center">
