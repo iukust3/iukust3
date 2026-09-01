@@ -1,126 +1,174 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Irfan%20Ullah&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Project%20Manager%20%7C%20Senior%20KMP%20Developer%20%7C%2012%20Years%20Experience&amp;descAlignY=55&amp;descSize=16&amp;v=2" alt="Header Banner"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1B1F3B,60:6C5CE7,85:A29BFE,100:00CEC9&height=220&section=header&text=Irfan%20Ullah&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Project%20Manager%20%7C%20Senior%20Kotlin%20Multiplatform%20Architect%20%7C%2012%2B%20Years%20Exp&descAlignY=58&descSize=16&descColor=dfe6e9&animation=fadeIn" width="100%" alt="Header Banner"/>
 
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=667EEA&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+cross-platform+apps+with+Kotlin+Multiplatform;Crafting+scalable+Ktor+backends;Flutter+%26+iOS+native+development;Node.js+%26+PostgreSQL+expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6C5CE7&center=true&vCenter=true&width=850&lines=🚀+Project+Manager+%26+Lead+KMP+Architect;📱+Kotlin+Multiplatform+%7C+Compose+Multiplatform+%7C+iOS+%26+Android;⚡+High-Performance+Ktor+%26+Node.js+Microservices;🌍+Building+High-Concurrency+Enterprise+Ecosystems;🛠️+12%2B+Years+Delivering+Scalable+Products" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/irfanullah2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:itsme.irfanullah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=iukust3">
-    <img src="https://komarev.com/ghpvc/?username=iukust3&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/irfanullah2/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:itsme.irfanullah@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/iukust3">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=iukust3">
+      <img src="https://komarev.com/ghpvc/?username=iukust3&label=Profile%20Views&color=6C5CE7&style=for-the-badge" alt="Profile Views"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 Executive Summary
 
-```yaml
-name: Irfan Ullah (Ibrahim Khan)
-location: Kuwait City, Kuwait
-role: Project Manager & Senior Kotlin Multiplatform Developer
-experience: 12+ Years
-current_focus:
-  - Leading KMP mobile & backend architecture
-  - Project Manager @ [Faras Captain Kenya (KMP)](https://play.google.com/store/apps/details?id=com.faras.driver)
-  - Enterprise-level cross-platform solutions
-learning: ["Advanced iOS Development", "System Design", "Next.js"]
-collaboration: "Open to enterprise projects & KMP/Flutter partnerships"
-contact: itsme.irfanullah@gmail.com
+```kotlin
+data class SoftwareArchitect(
+    val name: String = "Irfan Ullah (Ibrahim Khan)",
+    val location: String = "Kuwait City, Kuwait 🇰🇼",
+    val title: String = "Project Manager & Senior Kotlin Multiplatform Architect",
+    val experienceYears: Int = 12,
+    val coreSpecialties: List<String> = listOf(
+        "Kotlin Multiplatform (KMP & CMP)",
+        "Enterprise System Design & Distributed Backends (Ktor, Node.js)",
+        "Real-Time Telemetry, OSRM Routing & Geofencing Engines",
+        "Agile Project Leadership & Cross-Functional Engineering"
+    ),
+    val currentMission: String = "Leading Faras Captain Kenya & Winch Roadside Assistance Ecosystems",
+    val passions: List<String> = listOf("High-Availability Systems", "Clean Architecture (MVI/MVVM)", "Pixel-Perfect UI/UX")
+)
 ```
 
 ---
 
-## 💻 Tech Stack & Expertise
+### 🌟 Featured Enterprise Projects
 
-### Mobile & Cross-Platform
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Faras Captain (Kenya)</h3>
+      <p align="center">
+        <b>Role:</b> Project Manager & Lead Mobile Architect<br/>
+        <b>Tech:</b> Kotlin Multiplatform, Compose, Native iOS, WebSockets<br/>
+        High-scale ride-hailing and logistics application empowering tens of thousands of daily drivers across East Africa.
+      </p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.faras.driver" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-Faras_Captain-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛞 Winch Road Assistance</h3>
+      <p align="center">
+        <b>Role:</b> Lead Full-Stack & Mobile Architect<br/>
+        <b>Tech:</b> KMP, Ktor Backend, PostgreSQL, React Admin Portal, OSRM<br/>
+        End-to-end mission-critical emergency roadside assistance & dispatch platform with live GPS tracking and dynamic verification.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active_Production-00CEC9?style=for-the-badge&logo=fastapi&logoColor=white" alt="Active Production"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Matrix & Core Competencies
+
+<div align="center">
+
+#### 📱 Mobile & Multiplatform
 <p>
   <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Compose"/>
+  <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform"/>
+  <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS_Native-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </p>
 
-### Backend & Database
+#### ⚡ Backend, Cloud & Architecture
 <p>
   <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Ktor"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
-### Web & Tools
+#### 🌐 Web, Frontend & Tooling
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Activity & Real-Time Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-6v5kbwzd2-itsmeirfanullah-9109s-projects.vercel.app/api?username=iukust3&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=667eea&amp;icon_color=667eea&amp;v=5" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-6v5kbwzd2-itsmeirfanullah-9109s-projects.vercel.app/api/top-langs/?username=iukust3&amp;layout=compact&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=667eea&amp;v=5" alt="Top Languages"/>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-stats-6v5kbwzd2-itsmeirfanullah-9109s-projects.vercel.app/api?username=iukust3&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=00CEC9&text_color=DFE6E9&v=6" alt="GitHub Stats"/>
+      </td>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-stats-6v5kbwzd2-itsmeirfanullah-9109s-projects.vercel.app/api/top-langs/?username=iukust3&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=DFE6E9&v=6" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iukust3&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=667eea&amp;ring=667eea&amp;fire=764ba2&amp;currStreakLabel=667eea&amp;v=2" alt="GitHub Streak"/>
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iukust3&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=00CEC9&currStreakLabel=6C5CE7&v=3" alt="GitHub Streak"/>
+  </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iukust3&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iukust3/iukust3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iukust3/iukust3/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iukust3/iukust3/output/github-contribution-grid-snake.svg">
-</picture>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=iukust3&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
+  </p>
+</div>
 
 ---
 
-## 🎯 Current Focus 2026
+### 🐍 Contribution Activity
 
-- 🔭 **Leading** [Faras Captain Kenya (KMP)](https://play.google.com/store/apps/details?id=com.faras.driver) as Project Manager & Senior KMP Developer [![Google Play](https://img.shields.io/badge/Google_Play-Faras_Driver-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.faras.driver)
-- 🌱 **Spearheading** enterprise KMP mobile & backend architectures (12+ years exp)
-- 🧠 **Mastering** advanced iOS Native, Next.js & modern system design
-- 👯 **Collaborating** on enterprise-level cross-platform projects & KMP partnerships
-- 💬 **Ask me about:** Kotlin Multiplatform, Compose Multiplatform, Android/iOS native, Ktor, Node.js, and PostgreSQL
-- ⚡ **Fun fact:** I am extremely passionate about turning complex architectural challenges into clean, scalable products!
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iukust3/iukust3/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iukust3/iukust3/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/iukust3/iukust3/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## ☕ Support My Work
+### 🤝 Connect & Collaborate
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/iukust3">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+<div align="center">
+  <p>
+    <b>Let's build something remarkable together!</b><br/>
+    Open for consulting, enterprise architectural advisory, and high-impact KMP / Full-Stack projects.
+  </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
-</p>
+  <p>
+    <a href="mailto:itsme.irfanullah@gmail.com">
+      <img src="https://img.shields.io/badge/Get_In_Touch-itsme.irfanullah%40gmail.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+    </a>
+    <a href="https://www.buymeacoffee.com/iukust3" target="_blank">
+      <img src="https://img.shields.io/badge/Support_My_Work-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+    </a>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1B1F3B,60:6C5CE7,85:A29BFE,100:00CEC9&height=100&section=footer" width="100%"/>
+</div>
