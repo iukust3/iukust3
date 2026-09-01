@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1F3B,55:6C5CE7,80:8E44AD,100:00CEC9&height=230&section=header&text=Irfan%20Ullah&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Project%20Manager%20%7C%20Principal%20KMP%20Architect%20%7C%2012%2B%20Years%20Exp&descAlignY=58&descSize=16&descColor=dfe6e9&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F0EEFF,25:DDD6FE,55:C4B5FD,80:A78BFA,100:8B5CF6&height=230&section=header&text=Irfan%20Ullah&fontSize=52&fontColor=1B1F3B&fontAlignY=35&desc=Project%20Manager%20%7C%20Principal%20KMP%20Architect%20%7C%2012%2B%20Years%20Exp&descAlignY=58&descSize=16&descColor=3D3D5C&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1F3B,55:6C5CE7,80:8E44AD,100:00CEC9&height=230&section=header&text=Irfan%20Ullah&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Project%20Manager%20%7C%20Principal%20KMP%20Architect%20%7C%2012%2B%20Years%20Exp&descAlignY=58&descSize=16&descColor=dfe6e9&animation=fadeIn" width="100%" alt="Header Banner"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1F3B,55:6C5CE7,80:8E44AD,100:00CEC9&height=230&section=header&text=Irfan%20Ullah&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Project%20Manager%20%7C%20Principal%20KMP%20Architect%20%7C%2012%2B%20Years%20Exp&descAlignY=58&descSize=16&descColor=dfe6e9&animation=fadeIn" width="100%" alt="Header Banner"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1200&color=6C5CE7&center=true&vCenter=true&width=880&lines=🚀+Project+Manager+%26+Lead+Kotlin+Multiplatform+Architect;📱+Kotlin+Multiplatform+%7C+Compose+Multiplatform+%7C+iOS+%26+Android;⚡+High-Concurrency+Ktor+%26+Node.js+Distributed+Microservices;📍+Real-Time+OSRM+Routing%2C+Geofencing+%26+Telemetry+Engines;🛠️+12%2B+Years+Transforming+Complex+Challenges+Into+Scalable+Products" alt="Typing SVG" />
@@ -237,9 +233,5 @@ data class SoftwareArchitect(
     </a>
   </p>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1F3B,55:6C5CE7,80:8E44AD,100:00CEC9&height=100&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F0EEFF,25:DDD6FE,55:C4B5FD,80:A78BFA,100:8B5CF6&height=100&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1F3B,55:6C5CE7,80:8E44AD,100:00CEC9&height=100&section=footer" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1F3B,55:6C5CE7,80:8E44AD,100:00CEC9&height=100&section=footer" width="100%"/>
 </div>
